@@ -1,2 +1,2 @@
-Updated variant of the first project. It has been split into multiple files in order to respect the "one file, one class" principle. 
-The main focus is to write sustainable and easy to follow code, thats why I chose this approach even though so many files might seem unnecessary for this project.
+Updated variant of the first project. It has been split into multiple files in order to respect the "one file, one class" principle. The main focus is to write sustainable and easy to follow code, 
+thats why I chose this approach even though so many files might seem unnecessary for this project.
