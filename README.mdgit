@@ -1,1 +1,1 @@
-"# animal_sounds"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AOV1337/animal_sounds.gitgit push -u origin main
+Updated variant of the first project. It has been split into multiple files in order to respect the "one file, one class" principle. 
